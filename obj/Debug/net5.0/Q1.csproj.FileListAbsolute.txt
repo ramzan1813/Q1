@@ -1,0 +1,16 @@
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.exe
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.deps.json
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.dll
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\ref\Q1.dll
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\bin\Debug\net5.0\Q1.pdb
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.csproj.AssemblyReference.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.dll
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\ref\Q1.dll
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.pdb
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache
